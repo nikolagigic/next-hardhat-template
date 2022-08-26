@@ -17,6 +17,6 @@ yarn dev
 # Hardhat
 
 ```
-npx hardat run deploy/scripts.ts
+npx hardat run scripts/deploy.ts
 npx hardhat node
 ```
