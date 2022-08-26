@@ -1,4 +1,4 @@
-# Sample NextJS + Typescript + Hardhat Project
+# Template for NextJS + Typescript + Hardhat Project
 
 Here is boilerplate with **NextJS** + **Typescript** + **Hardhat** configuration to get you started with your new project **Web3** project.
 
